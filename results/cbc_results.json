@@ -1,0 +1,57 @@
+{
+    "COMPLETE BLOOD COUNT (CBC)": {
+        "result": "E",
+        "unit": null,
+        "biological_reference_interval": null
+    },
+    "MOGLOBIN (HB%)": {
+        "result": 12.0,
+        "unit": "g/dL",
+        "biological_reference_interval": "12.0-15.0"
+    },
+    "RED BLOOD CELL COUNT": {
+        "result": 3.99,
+        "unit": "million/pL",
+        "biological_reference_interval": "3.84-4.2"
+    },
+    "PCV (PACKED CELL VOLUME)": {
+        "result": 26.7,
+        "unit": "L",
+        "biological_reference_interval": "46.0-46.0"
+    },
+    "HEMATOCRIT": {
+        "result": null,
+        "unit": null,
+        "biological_reference_interval": null
+    },
+    "MCV (MEAN CORPUSCULAR VOLUME)": {
+        "result": 66.8,
+        "unit": "L",
+        "biological_reference_interval": "83.0-101.0"
+    },
+    "MCH (MEAN CORPUSCULAR HAEMOGLOBIN)": {
+        "result": 20.8,
+        "unit": "pg",
+        "biological_reference_interval": "27.0-32.0"
+    },
+    "MCHC (MEAN CORPUSCULAR HAEMOGLOBIN CONCENTRATION)": {
+        "result": 31.5,
+        "unit": "g/L",
+        "biological_reference_interval": "31.5-34.5"
+    },
+    "RED CELL DISTRIBUTION WIDTH": {
+        "result": 18.7,
+        "unit": "%",
+        "biological_reference_interval": "11.6-14.0"
+    },
+    "PLATELET COUNT": {
+        "result": 284,
+        "unit": "Thous/pL",
+        "biological_reference_interval": "150.0-450.0"
+    },
+    "AL LEUKOCYTE COUNT (TLC)": {
+        "result": 5.7,
+        "unit": "Thous/pL",
+        "biological_reference_interval": "4.0-10.0"
+    }
+}
